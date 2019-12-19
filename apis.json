@@ -1,0 +1,62 @@
+{
+    "name": "LessAccounting",
+    "description": "All accounting software sucks, we just suck the least. \r  Small business bookkeeping made super easy.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/432-lessaccounting.jpg",
+    "tags": [
+        "accounting",
+        "api provider",
+        "have api",
+        "invoices"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/lessaccounting\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "LessAccounting",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/432-lessaccounting.jpg",
+            "humanURL": "http:\/\/lessaccounting.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/lessaccounting-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base URL",
+            "url": "https:\/\/lessaccounting.com"
+        },
+        {
+            "type": "Blog",
+            "url": "https:\/\/lessaccounting.com\/blog\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/lessaccounting"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/lessaccounting.com\/api"
+        },
+        {
+            "type": "Email",
+            "url": "support@lessaccounting.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/LessAccounting"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/lessaccounting.com"
+        }
+    ]
+}
